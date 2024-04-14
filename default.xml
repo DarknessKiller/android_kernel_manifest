@@ -20,5 +20,5 @@
   <project path="tools/mkbootimg" name="platform/system/tools/mkbootimg" />
 
     <!-- AnyKernel3 -->
-  <project path="ak3" name="AnyKernel3" remote="github" revision="overdosegki" clone-depth="1" />
+  <project path="ak3" name="AnyKernel3" remote="overdose" revision="overdosegki" clone-depth="1" />
 </manifest>
