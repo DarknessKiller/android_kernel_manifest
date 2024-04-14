@@ -18,4 +18,7 @@
   <project path="prebuilts/build-tools" name="platform/prebuilts/build-tools" clone-depth="1" />
   <project path="prebuilts/kernel-build-tools" name="kernel/prebuilts/build-tools" clone-depth="1" />
   <project path="tools/mkbootimg" name="platform/system/tools/mkbootimg" />
+
+    <!-- AnyKernel3 -->
+  <project path="ak3" name="AnyKernel3" remote="github" revision="overdosegki" clone-depth="1" />
 </manifest>
